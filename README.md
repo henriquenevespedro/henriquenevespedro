@@ -1,3 +1,8 @@
+Eu gosto de jogar jogos de estrategia.
+Minhas materias favoritas é matemática e Educação fisica.
+Prefiro comida salgada do que doce.
+Não gosto muito de praticar esportes que esijam muito de mim.
+
 ## Hi there 👋
 
 <!--
